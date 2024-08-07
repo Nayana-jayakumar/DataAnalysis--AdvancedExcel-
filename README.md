@@ -2,6 +2,7 @@
 
 I'm currently honing my skills in various areas, including:
 
+* Advanced Excel for Data Analysis
 * Programming Languages (Python)
 * Data Analysis (wrangling, cleaning, visualization)
 * Power BI, Tableau
